@@ -1,0 +1,30 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Eli Frank
+
+2. Which VPS & domain providers did you choose?
+vultr and joker
+
+3. What domain name did you register?
+shmeeli.com
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/shmeeli/hw01-4550
+
+5. Which parts of this assignment did you have trouble with, if any?
+I had trouble figuring out how to connect the domain with the ip for
+ the VPS.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
